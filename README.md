@@ -12,7 +12,7 @@
     )
     ```
 4. E2E testing
-5. Deploy to vercel/fleek
+5. Deploy to vercel/fleek, website: https://ts-tsender-ui-cu-six.vercel.app/
 
 # Command
 
