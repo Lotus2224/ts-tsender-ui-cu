@@ -11,13 +11,18 @@
         uint256 totalAmount
     )
     ```
-4. Deploy to fleek
+4. E2E testing
+5. Deploy to fleek
 
 # Command
 
 - pnpm anvil / pnpm run anvil
 - pnpm run dev / pnpm dev
 - pnpm run test:unit / pnpm test:unit
+- pnpm exec playwright test --ui
+- pnpm exec playwright test
+- pnpm exec playwright show-report
+- pnpm synpress
 
 # Address Used
 
@@ -26,8 +31,18 @@
 - The anvil1 default address (0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266) with private key 0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80 has some tokens already minted.
 
 # Example
+## 未连接钱包时的界面
+![未连接钱包时的界面](./images/0.png)
+## TSender界面
 ![TSender界面](./images/1.png)
+## 帐户1
 ![帐户1](./images/2.png)
+## 帐户2
 ![帐户2](./images/3.png)
 
+## Test UI
+![Test UI](./images/4.png)
 
+## Test Show Report
+![Test Show Report](./images/5.png)
+![Test Show Report](./images/6.png)
