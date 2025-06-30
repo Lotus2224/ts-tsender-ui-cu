@@ -38,15 +38,15 @@
 ## TSender界面
 ![TSender界面](./images/1.png)
 
-## 帐户1
-![帐户1](./images/2.png)
-
-## 帐户2
-![帐户2](./images/3.png)
-
 ## Test UI
 ![Test UI](./images/4.png)
 
 ## Test Show Report
 ![Test Show Report](./images/5.png)
 ![Test Show Report](./images/6.png)
+
+## 帐户1
+![帐户1](./images/2.png)
+
+## 帐户2
+![帐户2](./images/3.png)
